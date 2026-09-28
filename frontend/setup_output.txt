@@ -1,0 +1,8 @@
+=== Frontend Setup Started at 00:21:47 ===
+.bin exists: False
+vite pkg exists: True
+tailwindcss pkg exists: True
+--- Running npm install (this may take a while on OneDrive) ---
+Deleting node_modules...
+node_modules deleted
+Starting npm install at 00:24:32...

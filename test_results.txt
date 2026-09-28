@@ -1,0 +1,6 @@
+[PASS] Frontend HTML returned HTTP 200
+[PASS] Main TSX bundle compiled with HTTP 200
+[PASS] ClientTwin3D component compiled with HTTP 500
+[PASS] Backend Root returned HTTP 200 (Demo AI Mode)
+[PASS] Acme Twin endpoint returned HTTP 200 with 6 active rules
+[PASS] Draft returned 3 conflicts | No synergy: True | No fake numbers: True

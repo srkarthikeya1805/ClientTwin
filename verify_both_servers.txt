@@ -1,0 +1,13 @@
+[SUCCESS] Backend Root (http://127.0.0.1:8000/) returned HTTP 200
+  Backend Data: {'system': 'ClientTwin AI - Institutional Client Memory Engine', 'status': 'online', 'active_ai_provider': 'Demo AI Mode'}
+[SUCCESS] Swagger Docs (http://127.0.0.1:8000/docs) returned HTTP 200
+[SUCCESS] Frontend Vite Server (http://127.0.0.1:5173/) returned HTTP 200
+  Frontend HTML snippet: <!doctype html>
+<html lang="en" class="dark">
+  <head>
+    <script type="module">import { injectIntoGlobalHook } from "/@react-refresh";
+injectIntoGlobalHook(window);
+window.$RefreshReg$ = () => {};
+window.$RefreshSig$ = () => (type) => type;</script>
+
+    <script type="module" src="/@vite/client"><

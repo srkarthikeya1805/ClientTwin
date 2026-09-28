@@ -1,0 +1,10 @@
+Starting install in C:\Users\karth\OneDrive\Desktop\DEVNOVATE\frontend
+[00:37:16] Using npm: C:\Program Files\nodejs\npm.cmd
+[00:37:16] Running npm install to repair and install missing packages...
+[00:39:19] npm install returncode: 0
+[00:39:19] STDOUT:
+
+added 99 packages, removed 84 packages, and changed 49 packages in 2m
+
+[00:39:19] vite.js exists: True
+[00:39:19] tailwindcss/package.json exists: True
